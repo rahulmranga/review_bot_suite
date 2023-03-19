@@ -1,0 +1,5 @@
+openai
+fastapi
+pydantic
+uvicorn[standard]
+sklearn_json
